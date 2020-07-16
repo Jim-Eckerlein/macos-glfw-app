@@ -12,5 +12,5 @@ make
 ./app
 ```
 
-The GLFW 3.3.2 binaries are manually downloaded from listed [releases](https://github.com/glfw/glfw/releases) hosted on the official GLFW GitHub repository.
+The GLFW 3.3.2 binaries are manually downloaded from the listed [releases](https://github.com/glfw/glfw/releases) hosted on the official GLFW GitHub repository.
 
